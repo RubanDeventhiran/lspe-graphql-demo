@@ -259,7 +259,7 @@ server.js
 Run
 ====
     
-    1. node server.ls
+    1. node server.js
     2. Run GraphQL queries
     
     
