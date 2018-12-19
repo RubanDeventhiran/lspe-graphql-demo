@@ -14,7 +14,7 @@ pipeline {
 
       }
       steps {
-        sh 'ping google.com'
+        sh 'ping google.com -c 40'
       }
     }
   }
