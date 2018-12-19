@@ -8,7 +8,7 @@ Pre Requisites
     2. Validate using npm -v and node -v
     3. Install MongoDB from https://www.mongodb.com/download-center#community
     4. Validate Mongo is up and running on default port 27017
-    5. Add bin folder to PATH variable so that you can run Mongo commands from shell
+    5. Add bin folder to PATH variable so that you can run Mongo commands from linux shell
     
 Set up
 ======
