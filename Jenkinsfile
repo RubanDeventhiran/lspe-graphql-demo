@@ -14,7 +14,7 @@ pipeline {
 
       }
       steps {
-        sh 'ping google.com -c 40'
+        sh 'uname -a'
       }
     }
   }
